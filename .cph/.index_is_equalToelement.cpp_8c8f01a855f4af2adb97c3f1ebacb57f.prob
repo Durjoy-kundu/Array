@@ -1,0 +1,1 @@
+{"name":"Local: index_is_equalToelement","url":"f:\\C+++\\array\\index_is_equalToelement.cpp","tests":[{"id":1632118620504,"input":"4\n1 2 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C+++\\array\\index_is_equalToelement.cpp","group":"local","local":true}

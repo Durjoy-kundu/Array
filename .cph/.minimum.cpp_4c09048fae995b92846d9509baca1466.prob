@@ -1,0 +1,1 @@
+{"name":"Local: minimum","url":"f:\\C+++\\array\\minimum.cpp","tests":[{"id":1631853906516,"input":"3\n1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C+++\\array\\minimum.cpp","group":"local","local":true}
